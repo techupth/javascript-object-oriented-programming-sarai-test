@@ -1,3 +1,5 @@
-class EmailNotification { }
+class EmailNotification {
+    let test
+}
 
 class SMSNotification { }
