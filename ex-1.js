@@ -1,5 +1,5 @@
 class EmailNotification {
-    let test
+    let testqa
 }
 
 class SMSNotification { }
